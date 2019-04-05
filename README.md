@@ -2,4 +2,3 @@
 无
 public static void main()
 {
-}
